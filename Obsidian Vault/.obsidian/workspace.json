@@ -11,12 +11,8 @@
             "id": "c36584253a82f946",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Экзамен по проге/enums.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Экзамен по проге/enums.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +148,8 @@
   },
   "active": "c36584253a82f946",
   "lastOpenFiles": [
+    "Экзамен по проге/enums.md",
+    "Pasted image 20230601213953.png",
     "Экзамен по проге/Exception.md",
     "Экзамен по проге/Видимость.md",
     "Экзамен по проге/nested classes vs inner classes.md",
@@ -181,7 +175,6 @@
     "Экзамен по проге/SAM-интерфейсы.md",
     "Экзамен по проге/class vs interface.md",
     "Экзамен по проге/JVM байт-код.md",
-    "Экзамен по проге/Стеки, очереди.md",
     "Экзамен по проге/Pasted image 20230601152619.png",
     "Untitled",
     "Физика",

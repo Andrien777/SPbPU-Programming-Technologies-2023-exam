@@ -48,3 +48,6 @@ enum DayOfWeek {
 DayOfWeek day = DayOfWeek.MONDAY;
 System.out.println(day.name() + (day.isWeekend()) ? " is " : " isn't " + "weekend.") //MONDAY isn't weekend.
 ```
+
+Enum может быть [[abstract class vs interface|абстрактным классом]], каждый экземпляр которого переопределяет абстрактные методы. Т.е. каждый элемент - унаследованный от enum [[Локальные классы, Анонимные классы#Анонимные классы|анонимный класс]].
+![[Pasted image 20230601213953.png]]
