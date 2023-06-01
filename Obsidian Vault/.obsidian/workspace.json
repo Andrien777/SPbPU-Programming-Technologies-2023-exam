@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "13d2f56ea619e93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d563440ccf0ebba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36584253a82f946",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5afef0afc9c4030d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f7c1843d7421ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d4096445db0d21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "463571c01f1480a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94c5c2a6dbbccdb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f5198be55c45f103",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce22c555b127fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f5fb1eff4a4cd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4751cb66dd8efd4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b5c2cf45876cf8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db7c813a4eb851ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c36584253a82f946",
+  "lastOpenFiles": [
+    "Экзамен по проге/Map.md",
+    "Экзамен по проге/null.md",
+    "Экзамен по проге/EnumSet.md",
+    "Экзамен по проге.md",
+    "Экзамен по проге/Pasted image 20230601152619.png",
+    "Экзамен по проге/Concurrent collections.md",
+    "Экзамен по проге/wait, notify, notifyAll.md",
+    "Экзамен по проге/synchronized, volatile.md",
+    "Экзамен по проге/Model-View-Controller.md",
+    "Экзамен по проге/INVOKEVIRTUAL.md",
+    "Экзамен по проге/JVM стек.md",
+    "Экзамен по проге/JVM байт-код.md",
+    "Экзамен по проге/Throwable-Exception-Error.md",
+    "Экзамен по проге/Exception.md",
+    "Экзамен по проге/equals.md",
+    "Экзамен по проге/Локальные классы, Анонимные классы.md",
+    "Экзамен по проге/Threads.md",
+    "Экзамен по проге/SAM-интерфейсы.md",
+    "Экзамен по проге/Архитектура JVM.md",
+    "Экзамен по проге/Java 8 streams.md",
+    "Экзамен по проге/Массивы.md",
+    "Экзамен по проге/class vs interface.md",
+    "Экзамен по проге/ArrayList, LinkedList.md",
+    "Экзамен по проге/abstract class vs interface.md",
+    "Экзамен по проге/Стеки, очереди.md",
+    "Экзамен по проге/Примитивные и ссылочные типы.md",
+    "Экзамен по проге/Обертки для примитивов.md",
+    "Untitled",
+    "Физика",
+    "Экзамен по проге"
+  ]
+}

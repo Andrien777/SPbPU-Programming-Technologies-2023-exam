@@ -1,0 +1,34 @@
+hashCode() - метод, объявленный в Object. Для любого объекта она вычисляет int по определенным правилам. 
+Требования:
+1. Если два объекта равны по [[equals]], то их хэши равны
+2. Если hashCode вызван на одном и том же объекте несколько раз, и между вызовами объект не менялся, то результат вызова не должен меняться
+3. Если хэши объектов равны, то сами объекты **не обязаны** быть равными.
+ Метод hashCode() используется чаще всего в хэш-таблицах, лежащих в основе [[HashSet, TreeSet#HashSet|HashSet]] и [[HashMap, TreeMap|HashMap]].
+ Пример:
+ ```java
+ class Point {
+    private int x;
+    private int y;
+    //Конструктор, get, set...
+    @Override
+    public boolean equals(Object other) {
+        if(this == other) return true;
+        if(other instanceof Point p) {
+            return (this.x == p.getX()) && (this.y == p.getY());
+        }
+        return false;
+    }
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(x, y); //Стандартный метод для вычисления хэша
+	}
+}
+```
+
+## Свойства [[equals]]
+1. Объект всегда равен самому себе
+2. Если А равно В, то В равно А
+3. Если два объекта равны третьему, то они равны
+4. Результат вызова equals меняется только при изменении самих объектов
+5. Никакой объект, кроме [[null]], не равен [[null]]
