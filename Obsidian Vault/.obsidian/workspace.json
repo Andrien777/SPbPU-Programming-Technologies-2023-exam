@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге.md",
+                "file": "Экзамен по проге/Примитивные и ссылочные типы.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге.md",
+                "file": "Экзамен по проге/Примитивные и ссылочные типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге.md",
+                "file": "Экзамен по проге/Примитивные и ссылочные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге.md"
+                "file": "Экзамен по проге/Примитивные и ссылочные типы.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +158,10 @@
   },
   "active": "c36584253a82f946",
   "lastOpenFiles": [
+    "Экзамен по проге.md",
     "Экзамен по проге/Map.md",
     "Экзамен по проге/null.md",
     "Экзамен по проге/EnumSet.md",
-    "Экзамен по проге.md",
     "Экзамен по проге/Pasted image 20230601152619.png",
     "Экзамен по проге/Concurrent collections.md",
     "Экзамен по проге/wait, notify, notifyAll.md",
