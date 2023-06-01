@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге/static.md",
+                "file": "Экзамен по проге/final.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/static.md",
+                "file": "Экзамен по проге/final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/static.md",
+                "file": "Экзамен по проге/final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге/static.md"
+                "file": "Экзамен по проге/final.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "c36584253a82f946",
   "lastOpenFiles": [
+    "Экзамен по проге/static.md",
     "Экзамен по проге/hashCode.md",
     "Экзамен по проге/equals.md",
     "Экзамен по проге/Обертки для примитивов.md",
@@ -182,7 +183,6 @@
     "Экзамен по проге/Throwable-Exception-Error.md",
     "Экзамен по проге/Локальные классы, Анонимные классы.md",
     "Экзамен по проге/Java 8 streams.md",
-    "Экзамен по проге/SAM-интерфейсы.md",
     "Экзамен по проге/Pasted image 20230601152619.png",
     "Untitled",
     "Физика",
