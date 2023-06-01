@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге/Exception.md",
+                "file": "Экзамен по проге/enums.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/Exception.md",
+                "file": "Экзамен по проге/enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/Exception.md",
+                "file": "Экзамен по проге/enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге/Exception.md"
+                "file": "Экзамен по проге/enums.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "c36584253a82f946",
   "lastOpenFiles": [
+    "Экзамен по проге/Exception.md",
     "Экзамен по проге/Видимость.md",
     "Экзамен по проге/nested classes vs inner classes.md",
     "Экзамен по проге/toString.md",
@@ -181,7 +182,6 @@
     "Экзамен по проге/class vs interface.md",
     "Экзамен по проге/JVM байт-код.md",
     "Экзамен по проге/Стеки, очереди.md",
-    "Экзамен по проге/HashMap, TreeMap.md",
     "Экзамен по проге/Pasted image 20230601152619.png",
     "Untitled",
     "Физика",
