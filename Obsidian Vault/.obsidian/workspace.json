@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "дженерик",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5198be55c45f103",
@@ -155,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c36584253a82f946",
+  "active": "74d4096445db0d21",
   "lastOpenFiles": [
     "Экзамен по проге/equals.md",
     "Экзамен по проге/Обертки для примитивов.md",
     "Экзамен по проге/enums.md",
-    "Pasted image 20230601213953.png",
+    "Экзамен по проге/Pasted image 20230601213953.png",
     "Экзамен по проге/Exception.md",
     "Экзамен по проге/Видимость.md",
     "Экзамен по проге/nested classes vs inner classes.md",
