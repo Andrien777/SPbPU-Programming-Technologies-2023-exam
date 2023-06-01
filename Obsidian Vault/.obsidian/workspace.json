@@ -129,13 +129,21 @@
                 "file": "Экзамен по проге.md"
               }
             }
+          },
+          {
+            "id": "27dcc6e1403d6b4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
