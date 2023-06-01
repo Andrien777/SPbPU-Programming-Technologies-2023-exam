@@ -24,7 +24,7 @@ JVM:
 Реализация видов классов:
 * top-level - напрямую
 * [[nested classes vs inner classes|nested]] - напрямую с декорированием имени: Outer\$Nested
-* [[nested classes vs inner classes|inner]] - содержит неявную ссылку не внешний класс
+* [[nested classes vs inner classes|inner]] - содержит неявную ссылку на внешний класс
 * [[Локальные классы, Анонимные классы|локальные и анонимные]] - содержат ссылку на контекст
 
 Устройство памяти:
