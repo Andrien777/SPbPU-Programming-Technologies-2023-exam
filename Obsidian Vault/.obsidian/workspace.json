@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге/На 3/for-each.md",
+                "file": "Экзамен по проге.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/На 3/for-each.md",
+                "file": "Экзамен по проге.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/На 3/for-each.md",
+                "file": "Экзамен по проге.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге/На 3/for-each.md"
+                "file": "Экзамен по проге.md"
               }
             }
           },
@@ -156,7 +156,10 @@
   },
   "active": "9b6d8f5476bdd028",
   "lastOpenFiles": [
+    "Экзамен по проге/На 3/Threads.md",
     "Экзамен по проге.md",
+    "Экзамен по проге/На 3/List.md",
+    "Экзамен по проге/На 3/for-each.md",
     "Экзамен по проге/На 3/Exception.md",
     "Экзамен по проге/На 3/static.md",
     "Экзамен по проге/На 3/class vs interface.md",
@@ -179,9 +182,6 @@
     "Экзамен по проге/На 5/Model-View-Controller.md",
     "Экзамен по проге/На 5/JVM стек.md",
     "Экзамен по проге/На 5/INVOKEVIRTUAL.md",
-    "Экзамен по проге/На 5/HashSet, TreeSet.md",
-    "Экзамен по проге/На 5/EnumSet.md",
-    "Экзамен по проге/На 5/Concurrent collections.md",
     "Экзамен по проге/На 5",
     "Экзамен по проге/На 4",
     "Экзамен по проге/На 3",
