@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге/На 4/Iterable, Iterator.md",
+                "file": "Экзамен по проге.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/На 4/Iterable, Iterator.md",
+                "file": "Экзамен по проге.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/На 4/Iterable, Iterator.md",
+                "file": "Экзамен по проге.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге/На 4/Iterable, Iterator.md"
+                "file": "Экзамен по проге.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   "active": "9b6d8f5476bdd028",
   "lastOpenFiles": [
     "Экзамен по проге.md",
+    "Экзамен по проге/На 4/JVM байт-код.md",
+    "Экзамен по проге/На 4/Архитектура JVM.md",
+    "Экзамен по проге/На 4/Iterable, Iterator.md",
     "Экзамен по проге/На 5/Threads.md",
     "Экзамен по проге/На 4/enums.md",
     "Экзамен по проге/На 3/Threads.md",
@@ -172,7 +175,6 @@
     "Экзамен по проге/На 3/null.md",
     "Экзамен по проге/На 3/Массивы.md",
     "Экзамен по проге/На 3/Примитивные и ссылочные типы.md",
-    "Экзамен по проге/На 4/JVM байт-код.md",
     "Экзамен по проге/На 5/Java 8 streams.md",
     "Экзамен по проге/На 5/Локальные классы, Анонимные классы.md",
     "Экзамен по проге/На 5/wait, notify, notifyAll.md",
@@ -180,8 +182,6 @@
     "Экзамен по проге/На 5/synchronized, volatile.md",
     "Экзамен по проге/На 5/SAM-интерфейсы.md",
     "Экзамен по проге/На 5/Queue, Deque.md",
-    "Экзамен по проге/На 5/Model-View-Controller.md",
-    "Экзамен по проге/На 5/JVM стек.md",
     "Экзамен по проге/На 5",
     "Экзамен по проге/На 4",
     "Экзамен по проге/На 3",
