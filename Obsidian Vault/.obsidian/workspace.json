@@ -11,10 +11,11 @@
             "id": "9b6d8f5476bdd028",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/.obsidian/workspace.json",
-                "staged": false
+                "file": "Экзамен по проге/На 4/JVM байт-код.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Экзамен по проге/На 4/JVM байт-код.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Экзамен по проге/На 4/JVM байт-код.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Экзамен по проге/На 4/JVM байт-код.md"
+              }
             }
           },
           {
@@ -151,8 +156,9 @@
   },
   "active": "9b6d8f5476bdd028",
   "lastOpenFiles": [
-    "Экзамен по проге/На 3/class vs interface.md",
     "Экзамен по проге.md",
+    "Экзамен по проге/На 5/Java 8 streams.md",
+    "Экзамен по проге/На 3/class vs interface.md",
     "Экзамен по проге/На 5/Локальные классы, Анонимные классы.md",
     "Экзамен по проге/На 5/wait, notify, notifyAll.md",
     "Экзамен по проге/На 5/Throwable-Exception-Error.md",
@@ -162,7 +168,6 @@
     "Экзамен по проге/На 5/Queue, Deque.md",
     "Экзамен по проге/На 5/Model-View-Controller.md",
     "Экзамен по проге/На 5/JVM стек.md",
-    "Экзамен по проге/На 5/Java 8 streams.md",
     "Экзамен по проге/На 5/INVOKEVIRTUAL.md",
     "Экзамен по проге/На 5/HashSet, TreeSet.md",
     "Экзамен по проге/На 5/EnumSet.md",
