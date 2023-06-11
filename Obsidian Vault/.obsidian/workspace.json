@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге.md",
-                "mode": "preview",
+                "file": "Экзамен по проге/На 3/Видимость.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге.md",
+                "file": "Экзамен по проге/На 3/Видимость.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге.md",
+                "file": "Экзамен по проге/На 3/Видимость.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге.md"
+                "file": "Экзамен по проге/На 3/Видимость.md"
               }
             }
           },
