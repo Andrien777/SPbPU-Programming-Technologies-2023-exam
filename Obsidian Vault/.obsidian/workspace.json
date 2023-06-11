@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамен по проге/На 4/JVM байт-код.md",
-                "mode": "source",
+                "file": "Экзамен по проге/На 3/for-each.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамен по проге/На 4/JVM байт-код.md",
+                "file": "Экзамен по проге/На 3/for-each.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамен по проге/На 4/JVM байт-код.md",
+                "file": "Экзамен по проге/На 3/for-each.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамен по проге/На 4/JVM байт-код.md"
+                "file": "Экзамен по проге/На 3/for-each.md"
               }
             }
           },
@@ -157,8 +157,18 @@
   "active": "9b6d8f5476bdd028",
   "lastOpenFiles": [
     "Экзамен по проге.md",
-    "Экзамен по проге/На 5/Java 8 streams.md",
+    "Экзамен по проге/На 3/Exception.md",
+    "Экзамен по проге/На 3/static.md",
     "Экзамен по проге/На 3/class vs interface.md",
+    "Экзамен по проге/На 3/Видимость.md",
+    "Экзамен по проге/На 3/toString.md",
+    "Экзамен по проге/На 3/equals.md",
+    "Экзамен по проге/На 4/hashCode.md",
+    "Экзамен по проге/На 3/null.md",
+    "Экзамен по проге/На 3/Массивы.md",
+    "Экзамен по проге/На 3/Примитивные и ссылочные типы.md",
+    "Экзамен по проге/На 4/JVM байт-код.md",
+    "Экзамен по проге/На 5/Java 8 streams.md",
     "Экзамен по проге/На 5/Локальные классы, Анонимные классы.md",
     "Экзамен по проге/На 5/wait, notify, notifyAll.md",
     "Экзамен по проге/На 5/Throwable-Exception-Error.md",
@@ -172,17 +182,7 @@
     "Экзамен по проге/На 5/HashSet, TreeSet.md",
     "Экзамен по проге/На 5/EnumSet.md",
     "Экзамен по проге/На 5/Concurrent collections.md",
-    "Экзамен по проге/На 5/class vs interface.md",
-    "Экзамен по проге/На 5/ArrayList, LinkedList.md",
     "Экзамен по проге/На 5",
-    "Экзамен по проге/На 4/Стеки, очереди.md",
-    "Экзамен по проге/На 4/Обертки для примитивов.md",
-    "Экзамен по проге/На 4/Видимость.md",
-    "Экзамен по проге/На 4/Архитектура JVM.md",
-    "Экзамен по проге/На 4/static.md",
-    "Экзамен по проге/На 4/Queue, Deque.md",
-    "Экзамен по проге/На 4/nested classes vs inner classes.md",
-    "Экзамен по проге/На 4/JVM байт-код.md",
     "Экзамен по проге/На 4",
     "Экзамен по проге/На 3",
     "Экзамен по проге/Pasted image 20230601213953.png",
