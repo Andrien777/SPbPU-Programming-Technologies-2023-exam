@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Экзамен по проге/На 3/Видимость.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +158,7 @@
   "active": "9b6d8f5476bdd028",
   "lastOpenFiles": [
     "Экзамен по проге.md",
+    "Экзамен по проге/На 3/Видимость.md",
     "Экзамен по проге/На 4/JVM байт-код.md",
     "Экзамен по проге/На 4/Архитектура JVM.md",
     "Экзамен по проге/На 4/Iterable, Iterator.md",
@@ -168,7 +170,6 @@
     "Экзамен по проге/На 3/Exception.md",
     "Экзамен по проге/На 3/static.md",
     "Экзамен по проге/На 3/class vs interface.md",
-    "Экзамен по проге/На 3/Видимость.md",
     "Экзамен по проге/На 3/toString.md",
     "Экзамен по проге/На 3/equals.md",
     "Экзамен по проге/На 4/hashCode.md",
